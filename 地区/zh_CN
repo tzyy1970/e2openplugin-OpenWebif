@@ -1,0 +1,1622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OpenWebif\n"
+"POT-Creation-Date: 2020-06-22 18:10+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1\n"
+"Last-Translator: 孤独之剑 <haotzyy1970@163.com>\n"
+"Language-Team: openATV\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s %s is locked."
+msgstr "%s %s 已加锁."
+
+msgid "%s free / %s total"
+msgstr "%s 可用 / %s 总容量"
+
+msgid "(Shift + Click for Long Press)"
+msgstr "(长按Shift+Click键)"
+
+msgid "(shift + click for long pressure)"
+msgstr "(长按Shift+click键)"
+
+msgid "AGC"
+msgstr "AGC控制"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Add AutoTimer"
+msgstr "添加自动定时"
+
+msgid "Add Autotimer to Tags"
+msgstr "添加自动定时器到标签"
+
+msgid "Add Bouquet"
+msgstr "增加自定组"
+
+msgid "Add Marker"
+msgstr "添加标记"
+
+msgid "Add Name to Tags"
+msgstr "添加名称到标签"
+
+msgid "Add Provider as new Bouquet"
+msgstr "添加供应商为节目分组"
+
+msgid "Add Similar on Conflict"
+msgstr "添加类似（冲突时）"
+
+msgid "Add Timer"
+msgstr "添加定时器"
+
+msgid "Add Zap Timer"
+msgstr "添加定时切换"
+
+msgid "Add channel(s) as alternate"
+msgstr "添加频道作为替代"
+
+msgid "Add channel(s) to Bouquet"
+msgstr "添加频道到节目分组"
+
+msgid "Add service name to stream information"
+msgstr "添加频道名称到数据流信息"
+
+msgid "Added %s to alternative service %s."
+msgstr "添加 %s 到替代频道 %s."
+
+msgid "After Event"
+msgstr "事件后"
+
+msgid "After event"
+msgstr "事件之后"
+
+msgid "Afterevent"
+msgstr "事件后"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All Channels"
+msgstr "全部频道"
+
+msgid "All Files of this Software are open source software;"
+msgstr "本软件的所有文件都是开源软件;"
+
+msgid ""
+"All Files of this Software are open source software; you can redistribute it "
+"and/or modify it under the terms of the GNU General Public License version 2 "
+"as published by the Free Software Foundation."
+msgstr ""
+"本软件的所有文件都是开源软件；您可以在遵循GPL V2协议的基础上重新分配和修改"
+"它。"
+
+msgid "All alternative services deleted."
+msgstr "删除所有的替代频道."
+
+msgid "Allow IPK Upload"
+msgstr "允许IPK上传"
+
+msgid "Alternative %s created failed."
+msgstr "替代%s创建失败."
+
+msgid "Always"
+msgstr "始终"
+
+msgid "Amount of recordings left"
+msgstr "留下的记录量"
+
+msgid "Answer is NO!"
+msgstr "否！"
+
+msgid "Answer is YES!"
+msgstr "是！"
+
+msgid "Any service/recording"
+msgstr "任何频道/录制"
+
+msgid "April"
+msgstr "四月"
+
+msgid "Ask, default No"
+msgstr "要求，默认否"
+
+msgid "Ask, default Yes"
+msgstr "要求，默认是"
+
+msgid "August"
+msgstr "八月"
+
+msgid "Authors"
+msgstr "作者"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "AutoPoll"
+msgstr "自动轮巡"
+
+msgid "AutoTimer"
+msgstr "自动计时器"
+
+msgid "AutoTimer Edit"
+msgstr "自动计时器编辑"
+
+msgid "AutoTimer List"
+msgstr "自动定时器列表"
+
+msgid "AutoTimer Settings"
+msgstr "自动定时设置"
+
+msgid "Autoplay"
+msgstr "自动播放"
+
+msgid "Autotimer Preview"
+msgstr "自动计时器预览"
+
+msgid "BER"
+msgstr "误码率"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Background only"
+msgstr "只有背景"
+
+msgid "Begin"
+msgstr "开始"
+
+msgid "Begin of \"after event\" timespan"
+msgstr "开始（在事件后的时间跨度内）"
+
+msgid "Begin of timespan"
+msgstr "开始时间"
+
+msgid "Bouquet %s already exists."
+msgstr "自定义组%s已经存在."
+
+msgid "Bouquet %s can not be moved."
+msgstr "自定组%s不能移动."
+
+msgid "Bouquet %s created."
+msgstr "自定义组%s 已创建."
+
+msgid "Bouquet %s deleted."
+msgstr "自定组%s已删除."
+
+msgid "Bouquet %s is locked."
+msgstr "自定组%s已加锁."
+
+msgid "Bouquet %s is unlocked."
+msgstr "自定组 %s 已解锁."
+
+msgid "Bouquet %s moved."
+msgstr "移动自定义组 %s."
+
+msgid "Bouquet %s removed failed, sevicerefence or mutable list is not valid."
+msgstr "移除自定组%s失败, 服务或名称无效."
+
+msgid "Bouquet %s removed failed."
+msgstr "移除自定组%s失败."
+
+msgid "Bouquet Editor"
+msgstr "自定组编辑器"
+
+msgid "Bouquet renamed successfully."
+msgstr "自定组改名完成."
+
+msgid "Bouquet-settings were restored successfully"
+msgstr "自定组设置已成功恢复"
+
+msgid "BouquetEditor"
+msgstr "编辑节目分组"
+
+msgid "Bouquetlist is not editable!"
+msgstr "自定组列表不可编辑!"
+
+msgid "Bouquets"
+msgstr "节目分组"
+
+msgid "Box"
+msgstr "机顶盒"
+
+msgid "Box Control"
+msgstr "机顶盒控制"
+
+msgid "Box Info"
+msgstr "机顶盒信息"
+
+msgid "Box Uptime"
+msgstr "运行时间"
+
+msgid "Brand"
+msgstr "品牌"
+
+msgid "Cable"
+msgstr "有线"
+
+msgid ""
+"Cannot read CA certs for HTTPS access\n"
+"HTTPS access is disabled!"
+msgstr ""
+"无法读取用于HTTPS访问的CA证书\n"
+"HTTPS访问被禁用!"
+
+msgid "Calendar Week"
+msgstr "本周"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Channel"
+msgstr "频道"
+
+msgid "Channels"
+msgstr "频道"
+
+msgid "Character encoding for EPG data"
+msgstr "EPG 编码特征"
+
+msgid "Chipset"
+msgstr "芯片组"
+
+msgid "Cleanup Timers"
+msgstr "清理定时器"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Conflicting Timer(s) detected! %s"
+msgstr "检测到的计时器！%s"
+
+msgid "Contributors"
+msgstr "贡献者"
+
+msgid "Control"
+msgstr "控制"
+
+msgid "Could not add timer '%s'!"
+msgstr "不能添加定时器“%s”!"
+
+msgid "Could not find timer '%s' with given start and end time!"
+msgstr "未找到指定开始时间和结束时间的定时器 '%s'！"
+
+msgid "Current"
+msgstr "当前频道"
+
+msgid "Current Event"
+msgstr "当前事件"
+
+msgid "Custom box name"
+msgstr "自定义名称"
+
+msgid "Custom offset"
+msgstr "自定义偏移"
+
+msgid "DHCP"
+msgstr "DHCP服务器"
+
+msgid "Debug - Display Tracebacks in browser"
+msgstr "调试-在浏览器中显示错误信息和回跟踪"
+
+msgid "December"
+msgstr "十二月"
+
+msgid "Deep-Standby"
+msgstr "深度待机"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Deinterlace:"
+msgstr "隔行扫描:"
+
+msgid "Delay Standby"
+msgstr "延迟待机"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Bouquet"
+msgstr "删除自定组"
+
+msgid "Delete Channel(s)"
+msgstr "删除频道"
+
+msgid "Delete Movie"
+msgstr "删除电影"
+
+msgid "Delete Recording"
+msgstr "删除录制"
+
+msgid "Delete Timer"
+msgstr "删除定时器"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Disable Timer"
+msgstr "禁用计时器"
+
+msgid "Disable remote access for user root"
+msgstr "禁用根用户访问"
+
+msgid "Disable access for user root"
+msgstr "禁用root用户接入"
+
+msgid "Disabled on Conflict"
+msgstr "禁用(冲突时)"
+
+msgid "Display Mode"
+msgstr "显示模式"
+
+msgid "Display duration (s)"
+msgstr "显示时间(秒)"
+
+msgid "Distro"
+msgstr "发行版本"
+
+msgid "Do you really want to delete the AT"
+msgstr "你真的想删除"
+
+msgid "Do you really want to delete the bouquet"
+msgstr "是否要删除自定组"
+
+msgid "Do you really want to delete the channel(s)"
+msgstr "你真的想删除该频道？"
+
+msgid "Do you really want to restore from file"
+msgstr "是否确实要从文件还原"
+
+msgid "Dolby"
+msgstr "杜比"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Download Playlist for"
+msgstr "下载播放列表"
+
+msgid "Driver date"
+msgstr "驱动日期"
+
+msgid "Drivers"
+msgstr "驱动"
+
+msgid "Duration"
+msgstr "持续时间"
+
+msgid "E"
+msgstr "E"
+
+msgid "EPG"
+msgstr "EPG"
+
+msgid "EPG encoding"
+msgstr "EPG 编码"
+
+msgid "EPGRefresh"
+msgstr "EPG 刷新"
+
+msgid "ERROR: Cannot set SleepTimer while device is in Standby-Mode"
+msgstr "错误:设备处于待机模式时无法设置睡眠计时器"
+
+msgid "Edit Timer"
+msgstr "编辑定时器"
+
+msgid "Editor"
+msgstr "编辑"
+
+msgid "Enable Authentication for streaming"
+msgstr "启用串流验证"
+
+msgid "Enable Filtering"
+msgstr "启用过滤"
+
+msgid "Enable HTTP Authentication"
+msgstr "启用HTTP认证"
+
+msgid "Enable HTTPS"
+msgstr "启用HTTPS"
+
+msgid "Enable HTTPS Authentication"
+msgstr "启用HTTPS认证"
+
+msgid "Enable Messages"
+msgstr "启用消息"
+
+msgid "Enable Parental Control"
+msgstr "启用家长控制"
+
+msgid "Enable Timer"
+msgstr "启用定时器"
+
+msgid "Enable access from VPNs"
+msgstr "启用VPN接入"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Encrypted"
+msgstr "加密"
+
+msgid "End"
+msgstr "结束"
+
+msgid "End of \"after event\" timespan"
+msgstr "结束（在事件后的时间跨度内）"
+
+msgid "End of Timespan"
+msgstr "结束时间"
+
+msgid "Enter new name for the bouquet"
+msgstr "为自定组输入新名称"
+
+msgid "Enter new name for the marker"
+msgstr "为标记输入新的名称"
+
+msgid "Epg Search"
+msgstr "EPG 搜索"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error parsing vps.xml"
+msgstr "分析vps.xml出错"
+
+msgid "Error while preparing backup file, %s does not exists."
+msgstr "创建备份文件错误！%s不存在。"
+
+msgid "Error while preparing backup file."
+msgstr "创建备份文件错误。"
+
+msgid "Error, %s does not exists, restore is not possible..."
+msgstr "错误，%s不存在，不能恢复..."
+
+msgid "Error, %s was not created with WebBouquetEditor..."
+msgstr "错误。创建自定组%s失败..."
+
+msgid "Error: Bouquet %s could not deleted, OSError."
+msgstr "错误: 自定组%s不能被删除, 系统错误."
+
+msgid "EventId not found"
+msgstr "未找到事件ID"
+
+msgid "Every"
+msgstr "每天"
+
+msgid "Exclude"
+msgstr "排除"
+
+msgid "Execute \"after event\" during timespan"
+msgstr "执行（在事件后的时间跨度内）"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Extras"
+msgstr "额外"
+
+msgid "Fake Recording"
+msgstr "伪造录制"
+
+msgid "Fastscan"
+msgstr "快速扫描"
+
+msgid "February"
+msgstr "二月"
+
+msgid "Firmware version"
+msgstr "固件版本"
+
+msgid "Force"
+msgstr "强制"
+
+msgid "Fr"
+msgstr "星期五"
+
+msgid "Free"
+msgstr "空闲的"
+
+msgid "Free Memory"
+msgstr "空闲内存"
+
+msgid "Fri"
+msgstr "星期五"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Frontprocessor Version"
+msgstr "前端版本"
+
+msgid "Gateway"
+msgstr "网关地址"
+
+msgid "Get mutable list for new created alternative failed!"
+msgstr "创建新的自定义组失败！"
+
+msgid "Get mutable list for new created bouquet failed!"
+msgstr "创建新的自定义组失败！"
+
+msgid "Grab Screenshot"
+msgstr "截屏"
+
+msgid "Gui version"
+msgstr "GUI 版本"
+
+msgid "HTTP port"
+msgstr "HTTP端口"
+
+msgid "HTTPS port"
+msgstr "HTTPS端口"
+
+msgid "Hard disk model"
+msgstr "硬盘型号"
+
+msgid "Hide full remote"
+msgstr "隐藏完整遥控"
+
+msgid "High Resolution"
+msgstr "高分辨率"
+
+msgid "Hour"
+msgstr "小时"
+
+msgid "IP address"
+msgstr "IP地址"
+
+msgid "IPv4 address"
+msgstr "IPv4地址"
+
+msgid "IPv4-only Python/Twisted"
+msgstr "纯IPv4 Python/双绞线"
+
+msgid "IPv4-only kernel"
+msgstr "IPv4内核"
+
+msgid "IPv6 address(es)"
+msgstr "IPv6地址"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Include"
+msgstr "包含"
+
+msgid "Include description"
+msgstr "包含描述"
+
+msgid "Infinite Instant recording started"
+msgstr "开始录制（不限时长）"
+
+msgid "Infos"
+msgstr "信息"
+
+msgid "Inherit Autotimer"
+msgstr "沿用自动计时器"
+
+msgid "Installed"
+msgstr "安装"
+
+msgid "Instant Record"
+msgstr "录制"
+
+msgid "Instant record for current Event started"
+msgstr "开始录制当前事件"
+
+msgid "Internal error!"
+msgstr "内部错误!"
+
+msgid "Interval (in h)"
+msgstr "间隔（小时）"
+
+msgid "Interval (min.)"
+msgstr "间隔（分钟.）"
+
+msgid "Interval (sec.)"
+msgstr "间隔（秒.）"
+
+msgid "January"
+msgstr "一月"
+
+msgid "Javascript Libraries"
+msgstr "Java脚本库"
+
+msgid "July"
+msgstr "七月"
+
+msgid "June"
+msgstr "六月"
+
+msgid "Just play"
+msgstr "仅播放"
+
+msgid "Kernel"
+msgstr "内核"
+
+msgid "Kernel version"
+msgstr "内核版本"
+
+msgid "LCD4Linux Setup"
+msgstr "LCD设置"
+
+msgid "LICENSE"
+msgstr "许可证"
+
+msgid "Label series"
+msgstr "标签系列"
+
+msgid "Link Speed"
+msgstr "链接速度"
+
+msgid "List of Timers has been cleaned"
+msgstr "定时器列表已被清除"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Locked"
+msgstr "锁定"
+
+msgid "MAC address"
+msgstr "MAC地址"
+
+msgid "Main"
+msgstr "主菜单"
+
+msgid "Main Memory"
+msgstr "主存储器"
+
+msgid "March"
+msgstr "三月"
+
+msgid "Marker added."
+msgstr "标记已添加."
+
+msgid "Match title"
+msgstr "匹配标题"
+
+msgid "Max Days"
+msgstr "最大日期"
+
+msgid "May"
+msgstr "可能"
+
+msgid "Message sent successfully!"
+msgstr "成功发送消息！"
+
+msgid "Method"
+msgstr "模式"
+
+msgid "Minute"
+msgstr "分钟"
+
+msgid "Missing mandatory parameter '%s'"
+msgstr "缺少强制参数 '%s'"
+
+msgid "Missing requesteter: sRef"
+msgstr "缺少请求:参考信息"
+
+msgid "Mo"
+msgstr "星期一"
+
+msgid "Model"
+msgstr "型号"
+
+msgid "Mon"
+msgstr "星期一"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Monthly"
+msgstr "月"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Movie database for EPG"
+msgstr "EPG电影数据库"
+
+msgid "Movielist"
+msgstr "电影列表"
+
+msgid "Movies"
+msgstr "影视"
+
+msgid "Multi-Bouquet is not enabled!"
+msgstr "多个自定组不能编辑!"
+
+msgid "MultiEPG"
+msgstr "多路EPG"
+
+msgid "Name"
+msgstr "频道名"
+
+msgid "Name of the Bouquet"
+msgstr "自定组名称"
+
+msgid "Name of the Marker"
+msgstr "标记名称"
+
+msgid "Namespace"
+msgstr "名称空间"
+
+msgid "Network Interface"
+msgstr "网络接口"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "New"
+msgstr "新的"
+
+msgid "New Name"
+msgstr "新的名称"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Parent Control Setup Pin given!"
+msgstr "没有指定PIN码!"
+
+msgid "No answer in time"
+msgstr "无响应"
+
+msgid "No bouquet given!"
+msgstr "没有指定自定组名称!"
+
+msgid "No bouquet name given!"
+msgstr "没有指定自定组名称!"
+
+msgid "No current service given!"
+msgstr "没有指定当前频道!"
+
+msgid "No event found! Not recording!"
+msgstr "定时器事件未找到！未录制！"
+
+msgid "No marker-name given!"
+msgstr "没有指定标记名称!"
+
+msgid "No matching Timer found"
+msgstr "无找到匹配的定时器"
+
+msgid "No new servicename given!"
+msgstr "没有指定新的频道名!"
+
+msgid "No position given!"
+msgstr "没有指定位置!"
+
+msgid "No provider given!"
+msgstr "没有指定服务商!"
+
+msgid "No service given!"
+msgstr "没有指定频道!"
+
+msgid "None"
+msgstr "无"
+
+msgid "Not after"
+msgstr "不在这之后"
+
+msgid "Not before"
+msgstr "不在这之前"
+
+msgid "Nothing"
+msgstr "什么也不做"
+
+msgid "Nothing playing."
+msgstr "没有什么可以播放."
+
+msgid "Notify if Conflict"
+msgstr "通知（发生冲突时）"
+
+msgid "Notify if Similar"
+msgstr "通知（如果类似）"
+
+msgid "November"
+msgstr "十一月"
+
+msgid "Now"
+msgstr "现在"
+
+msgid "OSCam Webinterface"
+msgstr "OSCam网络接口"
+
+msgid "OSD"
+msgstr "OSD菜单"
+
+msgid "October"
+msgstr "十月"
+
+msgid "Offset after recording (in m)"
+msgstr "录制后偏移（分钟）"
+
+msgid "Offset before recording (in m)"
+msgstr "录制前偏移（分钟）"
+
+msgid "On"
+msgstr "在"
+
+msgid "On any service"
+msgstr "在任何服务"
+
+msgid "On same service"
+msgstr "在相同服务"
+
+msgid "Only match during timespan"
+msgstr "仅在匹配期间"
+
+msgid "Open Source Web Interface for Linux set-top box"
+msgstr "用于Linux机顶盒的开源Web界面"
+
+msgid "Open in new window"
+msgstr "在新窗口中打开"
+
+msgid "OpenWebInterface Enabled"
+msgstr "启用开放的Web界面"
+
+msgid "OpenWebif Browser Settings"
+msgstr "Webif浏览器设置"
+
+msgid "OpenWebif Configuration"
+msgstr "网页管理配置"
+
+msgid "OpenWebif Settings"
+msgstr "OpenWebif设置"
+
+msgid "OpenWebif url: http://yourip:port"
+msgstr "OpenWebif访问:http://您的IP地址:端口"
+
+msgid "Orbital Position"
+msgstr "轨道位置"
+
+msgid "Override found with alternative service"
+msgstr "覆盖替代频道"
+
+msgid "Packages"
+msgstr "软件包"
+
+msgid "Parent Control Setup Pin is wrong!"
+msgstr "PIN码错误！"
+
+msgid "Parent Control is not activated."
+msgstr "未启用家长控制."
+
+msgid "Parse"
+msgstr "分析"
+
+msgid "Parse Autotimer"
+msgstr "分析自动计时器"
+
+msgid "Picture in Picture"
+msgstr "画中画"
+
+msgid "Picture in Picture (hidden)"
+msgstr "画中画（隐藏）"
+
+msgid "Plain"
+msgstr "普通"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Playback"
+msgstr "回放"
+
+msgid "Playback IPTV Streams in browser"
+msgstr "在浏览器中播放IPTV流"
+
+msgid "Playlist"
+msgstr "播放列表"
+
+msgid "Please enter filename"
+msgstr "请输入文件名"
+
+msgid "Power Control"
+msgstr "电源控制"
+
+msgid "PowerTimer feature not available"
+msgstr "电源定时器功能不可用"
+
+msgid "Provider"
+msgstr "频道提供商"
+
+msgid "Providers"
+msgstr "提供商"
+
+msgid "Radio"
+msgstr "广播"
+
+msgid "Really delete the movie"
+msgstr "确定要删除电影"
+
+msgid "Really delete the recording"
+msgstr "确定要删除录制"
+
+msgid "Really delete the timer"
+msgstr "确定要删除计时器"
+
+msgid "Really rename the recording"
+msgstr "确定要重命名录制"
+
+msgid "Reboot Box"
+msgstr "重启机顶盒"
+
+msgid "Record a maximum of x times"
+msgstr "最大录制次数"
+
+msgid "Recording Status"
+msgstr "录制信息"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Refresh Timer"
+msgstr "刷新定时器"
+
+msgid "Refresh automatically every"
+msgstr "自动刷新"
+
+msgid "Refresh now"
+msgstr "立即刷新"
+
+msgid "Reload"
+msgstr "重新载入"
+
+msgid "Remote"
+msgstr "远程遥控"
+
+msgid "Rename"
+msgstr "重命名"
+
+msgid "Rename Bouquet"
+msgstr "重命名节目分组"
+
+msgid "Rename Recording"
+msgstr "重命名录制"
+
+msgid "Repeated"
+msgstr "重复"
+
+msgid "Require client cert for HTTPS"
+msgstr "HTTPS需要客户端证书"
+
+msgid "Require description to be unique"
+msgstr "需要独特的描述"
+
+msgid "Reset count"
+msgstr "复位计数"
+
+msgid "Restart GUI"
+msgstr "重新启动GUI"
+
+msgid "Restrict to events on certain dates"
+msgstr "限制在特定日期的事件"
+
+msgid "Root"
+msgstr "Root"
+
+msgid "SLAAC"
+msgstr "无状态地址自动配置"
+
+msgid "SNR"
+msgstr "SNR"
+
+msgid "Sa"
+msgstr "星期六"
+
+msgid "Safe mode"
+msgstr "安全模式"
+
+msgid "Sat"
+msgstr "星期六"
+
+msgid "Satellites"
+msgstr "卫星"
+
+msgid "Satfinder"
+msgstr "寻星"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Screenshot"
+msgstr "截屏"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search IMDb"
+msgstr "搜索IMDB"
+
+msgid "Search KinoPoisk"
+msgstr "搜索 KinoPoisk"
+
+msgid "Search strictness"
+msgstr "搜索（严格）"
+
+msgid "Search type"
+msgstr "搜索类型"
+
+msgid "Search:"
+msgstr "搜索:"
+
+msgid "Select an Option"
+msgstr "选择一个选项"
+
+msgid "Send Message"
+msgstr "发送信息"
+
+msgid "Send a Message"
+msgstr "发送消息"
+
+msgid "September"
+msgstr "九月"
+
+msgid "Service"
+msgstr "频道"
+
+msgid "Service %s added."
+msgstr "频道%s已添加."
+
+msgid "Service %s already exists in bouquet %s."
+msgstr "频道%s已经存在于自定组%s."
+
+msgid "Service %s can not be removed."
+msgstr "频道%s不能被移除."
+
+msgid "Service %s is locked."
+msgstr "频道%s已加锁。"
+
+msgid "Service %s is unlocked."
+msgstr "频道 %s 已解锁."
+
+msgid "Service %s moved."
+msgstr "移动频道%s."
+
+msgid "Service %s removed from bouquet %s."
+msgstr "频道%s已从自定组%s中移除."
+
+msgid "Service %s removed."
+msgstr "移除频道%s."
+
+msgid "Service can not be moved."
+msgstr "频道不能被移动."
+
+msgid "Service can not be renamed."
+msgstr "频道不能改名."
+
+msgid "Service is not an alternative."
+msgstr "当前频道不是替代频道."
+
+msgid "Service renamed successfully."
+msgstr "频道改名完成."
+
+msgid "Services"
+msgstr "频道"
+
+msgid "Set maximum duration"
+msgstr "设置最大持续时间"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Show EPG for"
+msgstr "显示EPG为"
+
+msgid "Show Full OpenWebif"
+msgstr "显示完整的OpenWebif"
+
+msgid "Show Picon in channel list"
+msgstr "在频道列表中显示picon"
+
+msgid "Show Picons in channel list"
+msgstr "在频道列表picons"
+
+msgid "Show Service type in channel list"
+msgstr "在频道列表中显示频道类型"
+
+msgid "Show box name in header"
+msgstr "在标题中显示机顶盒名称"
+
+msgid "Show full remote"
+msgstr "显示完整的遥控"
+
+msgid "Show in Extensionsmenu"
+msgstr "在扩展菜单中显示"
+
+msgid "Shutdown"
+msgstr "关机"
+
+msgid "Simulate"
+msgstr "模拟"
+
+msgid "Site and sources"
+msgstr "来源站点"
+
+msgid "SleepTimer Error"
+msgstr "定时休眠出错"
+
+msgid "SleepTimer error"
+msgstr "定时休眠出错"
+
+msgid "Sleeptimer has been disabled"
+msgstr "定时休眠已禁用"
+
+msgid "Sleeptimer is disabled"
+msgstr "定时休眠已禁用"
+
+msgid "Sleeptimer is enabled"
+msgstr "定时休眠已启用"
+
+msgid "Sleeptimer set to %d minutes"
+msgstr "定时休眠设置为%d分钟"
+
+msgid "Smart services renaming for XBMC"
+msgstr "为XBMC重命名智能服务"
+
+msgid "Software"
+msgstr "软件开发"
+
+msgid "Sorry this page is not yet implemented"
+msgstr "对不起,这一页还未完成"
+
+msgid "Spinner"
+msgstr "微调"
+
+msgid "Sref"
+msgstr "参考信息"
+
+msgid "Standby"
+msgstr "待机"
+
+msgid "Standby Toggle"
+msgstr "待机开关"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Start Instant Record"
+msgstr "开始录制"
+
+msgid "Start time is after end time"
+msgstr "开始时间为结束时间后"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Stream"
+msgstr "串流服务"
+
+msgid "Su"
+msgstr "星期日"
+
+msgid "Subdirs"
+msgstr "子目录"
+
+msgid "Subdirs:"
+msgstr "子目录:"
+
+msgid "Subnet mask"
+msgstr "子网掩码"
+
+msgid "Subservices"
+msgstr "子服务"
+
+msgid "Sun"
+msgstr "星期日"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "System OE"
+msgstr "OE 系统"
+
+msgid "TV"
+msgstr "电视"
+
+msgid "TV Guide"
+msgstr "电视指南"
+
+msgid "TV Multi EPG"
+msgstr "多路EPG"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "Teletext"
+msgstr "图文电视"
+
+msgid "Television"
+msgstr "电视节目"
+
+msgid "Template Engine"
+msgstr "模板引擎"
+
+msgid "Terminal"
+msgstr "终端设备"
+
+msgid "Terrestrial"
+msgstr "地面波"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Th"
+msgstr "星期四"
+
+msgid "The parameter '%s' can't be empty"
+msgstr "参数 “%s” 不能为空"
+
+msgid "The parameter 'command' must be a number"
+msgstr "命令参数必须是数字"
+
+msgid "The timer '%s' has been %s successfully"
+msgstr "定时器 '%s' 已 %s 成功"
+
+msgid "The timer '%s' has been deleted successfully"
+msgstr "定时器'%s'已被成功删除"
+
+msgid "The timer '%s' now recorded! Not disabled!"
+msgstr "定时器 '%s' 正在录制! 不能禁用!"
+
+msgid "Theme"
+msgstr "主题"
+
+msgid "This service can not be added."
+msgstr "频道不能被添加."
+
+msgid "Thu"
+msgstr "星期四"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Timeline"
+msgstr "时间表"
+
+msgid "Timeout"
+msgstr "超时设置"
+
+msgid "Timer"
+msgstr "定时器"
+
+msgid "Timer '%s' added"
+msgstr "定时器 '%s' 已添加"
+
+msgid "Timer '%s' already exists!"
+msgstr "定时器 '%s' 已存在!"
+
+msgid "Timer '%s' changed"
+msgstr "定时器 '%s' 已更改"
+
+msgid "Timer '%s' not enabled while Conflict"
+msgstr "定时器 '%s' 冲突，未保存"
+
+msgid "Timer '%s' not saved while Conflict"
+msgstr "定时器 '%s' 冲突，未保存"
+
+msgid "Timer added"
+msgstr "添加定时器"
+
+msgid "Timer conflict detected! Not recording!"
+msgstr "检测到定时器冲突！停止录制！"
+
+msgid "Timer type"
+msgstr "计时器类型"
+
+msgid "TimerList has been saved"
+msgstr "定时器列表已保存"
+
+msgid "Timerlist"
+msgstr "定时器列表"
+
+msgid "Timers"
+msgstr "定时器"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Total Memory"
+msgstr "总内存"
+
+msgid "Transcode"
+msgstr "转码"
+
+msgid "Translation to Spanish"
+msgstr "西班牙语翻译"
+
+msgid "Try Guessing"
+msgstr "尝试猜测"
+
+msgid "Tu"
+msgstr "星期二"
+
+msgid "Tue"
+msgstr "星期二"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Tuner Bit Error Rate BER"
+msgstr "误码率"
+
+msgid "Tuner Number"
+msgstr "调谐器编号"
+
+msgid "Tuner Signal"
+msgstr "调谐器信息"
+
+msgid "Tuner Signal Power AGC"
+msgstr "AGC"
+
+msgid "Tuner Signal Quality SNR"
+msgstr "SNR(%)"
+
+msgid "Tuner Signal Quality SNR_DB"
+msgstr "SNR(DB)"
+
+msgid "Tuner Type"
+msgstr "调制类型"
+
+msgid "Tuners"
+msgstr "调谐器"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Unknown Volume command %s"
+msgstr "未知音量命令 %s"
+
+msgid "Unknown command: '%s'"
+msgstr "未知命令： '%s'"
+
+msgid "Upcoming Events"
+msgstr "节目预告"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update from Feed"
+msgstr "从Feed更新"
+
+msgid "Upgrade all Packages"
+msgstr "所有升级包"
+
+msgid "Use a custom location"
+msgstr "使用自定义位置"
+
+msgid "Use custom box name"
+msgstr "使用自定义名称"
+
+msgid "Use new design"
+msgstr "使用新的设计"
+
+msgid "Use custom Color"
+msgstr "使用自定义颜色"
+
+msgid "VPS"
+msgstr "VPS"
+
+msgid "VPS plugin not found"
+msgstr "未找到VPS插件"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Video Height"
+msgstr "视频高度"
+
+msgid "Video Wide"
+msgstr "视频宽度"
+
+msgid "Video Width"
+msgstr "视频宽度"
+
+msgid "Visibly"
+msgstr "可见"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "Volume Control"
+msgstr "音量控制"
+
+msgid "W"
+msgstr "W"
+
+msgid "Waiting for answer ..."
+msgstr "等待响应…"
+
+msgid "Wakeup"
+msgstr "唤醒"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "We"
+msgstr "星期三"
+
+msgid "Web TV"
+msgstr "网络电视"
+
+msgid "Wed"
+msgstr "星期三"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Weekday"
+msgstr "工作日"
+
+msgid "Weekend"
+msgstr "周末"
+
+msgid "Weekly (Monday)"
+msgstr "每周（星期一）"
+
+msgid "Weekly (Sunday)"
+msgstr "每周（星期日）"
+
+msgid "Without auth only local access is allowed!"
+msgstr "没有认证只有本地访问是允许的！"
+
+msgid "Wizzard"
+msgstr "向导"
+
+msgid "Wrong parameter format 'set=%s'. Use set=set15 "
+msgstr "错误的参数格式设置'set=%s', 使用 set=set15 "
+
+msgid "Yes/No"
+msgstr "是/否"
+
+msgid "Zap"
+msgstr "切换频道"
+
+msgid "Zap to"
+msgstr "切换到"
+
+msgid "Zapped to"
+msgstr "快速切换到"
+
+msgid "auto"
+msgstr "自动"
+
+msgid "base"
+msgstr "基础"
+
+msgid "case-insensitive search"
+msgstr "搜索（不区分大小写）"
+
+msgid "case-sensitive search"
+msgstr "搜索（区分大小写）"
+
+msgid "description match"
+msgstr "描述匹配"
+
+msgid "do nothing"
+msgstr "什么也不做"
+
+msgid "exact match"
+msgstr "精准匹配"
+
+msgid "finished"
+msgstr "完成"
+
+msgid "go to deep standby"
+msgstr "深度待机"
+
+msgid "go to standby"
+msgstr "进入待机状态"
+
+msgid "in Description"
+msgstr "从描述"
+
+msgid "in Shortdescription"
+msgstr "从简介"
+
+msgid "in Title"
+msgstr "从标题"
+
+msgid "loading"
+msgstr "加载中"
+
+msgid "no description available"
+msgstr "无可用说明"
+
+msgid "none/IPv4-only network"
+msgstr "仅IPv4网络"
+
+msgid "on Weekday"
+msgstr "在工作日"
+
+msgid "one two three four unknown command"
+msgstr "1 2 3 4 未知的命令"
+
+msgid "original"
+msgstr "原始"
+
+msgid "partial match"
+msgstr "部分匹配"
+
+msgid "published by the Free Software Foundation."
+msgstr "由自由软件基金会发布。"
+
+msgid "record"
+msgstr "录制"
+
+msgid "running"
+msgstr "运行"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "select Bouquets"
+msgstr "选择自定组"
+
+msgid "select Channels"
+msgstr "选择频道"
+
+msgid "select Tags"
+msgstr "选择标签"
+
+msgid "short description match"
+msgstr "简介匹配"
+
+msgid "standard"
+msgstr "标准"
+
+msgid "start match"
+msgstr "开始匹配"
+
+msgid "terms of the GNU General Public License version 2 as"
+msgstr "通用公共许可证第2版的条款"
+
+msgid "title or description match"
+msgstr "标题或描述匹配"
+
+msgid "title or short description match"
+msgstr "标题或简介匹配"
+
+msgid "transcoded"
+msgstr "转码"
+
+msgid "type %s is not a number"
+msgstr "类型 %s 的不是数字"
+
+msgid "waiting"
+msgstr "等待"
+
+msgid "you can redistribute it and/or modify it under the"
+msgstr "您可以重新分配或修改它"
+
+msgid "zap"
+msgstr "切换频道"
+
+msgid "zap before Stream"
+msgstr "串流之前切换频道"
